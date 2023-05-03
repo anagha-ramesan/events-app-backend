@@ -1,3 +1,4 @@
+// Changed to check if git is working
 package eventApp.apiServer.events;
 
 import com.sun.istack.NotNull;
